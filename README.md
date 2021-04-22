@@ -121,7 +121,7 @@ In the Enterprise Project Portfolio Management Tool Primavera P6 a task can have
 
 #### Removing LOE Tasks
 
-<img title="" src="images/LOE_Task.png" alt="" width="600" data-align="center">
+<img title="" src="images/Without_LOE.png" alt="" width="600" data-align="center">
 
 #### Reading Additional Attributes
 
